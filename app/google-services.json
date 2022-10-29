@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919160207863",
+    "project_id": "kotlin-simple-curd",
+    "storage_bucket": "kotlin-simple-curd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919160207863:android:9e11faaded91b7a69816f2",
+        "android_client_info": {
+          "package_name": "com.learning.kotlinsimplecurd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919160207863-vo6kbudecgs854d8u7t5ldoplfsqcm06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuj_EorjwbXV1VCo8dqClb30wnhrQ9Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919160207863-vo6kbudecgs854d8u7t5ldoplfsqcm06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
